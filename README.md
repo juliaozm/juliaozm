@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋 </h1>
 <h4 align="center"> I'm Julia, a product-minded frontend developer from the UK </h4>
-<p> ✔️ I have over 1.5 years of commercial experience in web development and more than 5 years in a fast-paced tech startup environment in roles connected with Product Development, Marketing, and UX Design.</p>
+<p> ✔️ I have over 2 years of experience in web development and more than 5 years in a fast-paced tech startup environment in roles connected with Product Development, Marketing, and UX Design.</p>
 <p> ✔️ Proficient in JavaScript, CSS, HTML. Good understanding of frameworks such as React.js, Next.js, Vue.js, Nuxt.js. Familiar with building REST APIs with Node.js, Express, and PostgreSQL, following a Test-driven development approach.</p>
 <p> ✔️ Known for the cross-functional collaborative skills to bridge the gap between developers and non-technical team members. </p>
 <h5 align="left"> 📫 Connect with me: ozmiteljul@gmail.com </h5>
